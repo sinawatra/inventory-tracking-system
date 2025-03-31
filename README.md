@@ -2,6 +2,13 @@
 
 
 A comprehensive inventory management system built with Next.js and shadcn/ui components. Efficiently manage your products, track orders, and monitor stock levels with this modern, responsive web application.
+![Screenshot 2025-04-01 003047](https://github.com/user-attachments/assets/1ffc91d9-9859-4e81-b13f-1c254d1ac4be)![Screenshot 2025-04-01 003152](https://github.com/user-attachments/assets/8e3bd63b-3192-48ae-a4c7-e093b7bb56c1)
+![Screenshot 2025-04-01 003142](https://github.com/user-attachments/assets/6ab93201-5979-47f3-bf33-b46556bd65ae)
+![Screenshot 2025-04-01 003133](https://github.com/user-attachments/assets/66e2f8aa-7acc-4c88-9104-e08071646b5d)
+![Screenshot 2025-04-01 003118](https://github.com/user-attachments/assets/ae7d6b77-10a7-4d5e-b89c-f447f763b6cb)
+![Screenshot 2025-04-01 003057](https://github.com/user-attachments/assets/7e0bb7b4-c9b0-4457-82c3-9b2848b87649)
+
+
 
 ## Features
 
